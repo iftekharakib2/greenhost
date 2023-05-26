@@ -1,0 +1,229 @@
+
+a{
+    text-decoration: none;
+}
+
+
+.navitem{
+    display: flex;
+    margin-top: 18px;
+}
+.navitem li a{
+    color: white !important;
+}
+.navitem li a:hover{
+color: red !important;
+}
+.dropdown-menu li a{
+    color: black !important;
+}
+.register {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.search01 a img {
+    margin-top: 10px;
+}
+
+.navnameimg {
+    margin-right: 30%;
+    margin-top: 10px;
+    font-size: 35px;
+    color: aliceblue;
+}
+.nav-link2{
+    color: aliceblue;
+}
+
+/* homapge part start */
+
+.homepage {
+    background-image: url(./Layer\ 3.png);
+    height: 75%;
+    width: 103%;
+    margin-top: -63px;
+}
+
+.homepage h2 {
+    margin-left: 70px;
+    margin-top: 195px;
+    color: aliceblue;
+}
+
+.homepara {
+    margin-left: 70px;
+    color: aliceblue;
+}
+
+.homepara02 {
+    margin-left: 120px;
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: -15px;
+}
+
+.homepara03 {
+    margin-left: 195px;
+    color: aliceblue;
+    margin-top: -45px;
+}
+.homebutton{
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+/* domain part start */
+.domain {
+    text-align: center;
+    margin-top: 100px;
+}
+.domainsearch{
+    margin-top: 15px;
+}
+.domaincard a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+.domaincard h5{
+    color: green;
+}
+
+/* about part start */
+.abouta {
+    text-decoration: none !important;
+    color: black;
+}
+.abouth1{
+    margin-top: 160px;
+}
+.aboutimg{
+    margin-top: 150px;
+    margin-left: 240px;
+}
+.aboutimg01{
+    margin-right: 5px;
+}
+.aboutcard{
+    text-align: center;
+    margin-top: 10px;
+}
+.aboutcardpara{
+    text-align: center;
+}
+.aboutcardimg{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+ /* host plan part start */
+.hostplanh1{
+    text-align: center;
+}
+.hostplanpara{
+    text-align: center;
+}
+.hostplanimg{
+    margin-left: 600px;
+}
+.hostplancard{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.hostplanh5{
+    text-align: center;
+    margin-top: 30px;
+}
+hr{
+    width: 350px;
+    margin-left: -17px;
+}
+.hostimg{
+    margin-top: -35px;
+    margin-left: -7px;
+}
+h6{
+    text-align: center;
+    margin-top: 30px;
+    color: green;
+    font-size: 20px;
+}
+.host01{
+    text-align: center ;
+    margin-top: 30px;
+    margin-left: -30px;
+
+}
+.hostpara{
+    text-align: center;
+    margin-left: 130px;
+    margin-top: -35px;
+}
+.hosth6{
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+}
+.hostimg2{
+    margin-top: -35px;
+    margin-left: -2px;
+}
+.hostimg3{
+    margin-top: -35px;
+    margin-left: -13px;
+}
+
+
+.serverh1{
+    text-align: center;
+    margin-top: 250px;
+}
+.serverpara{
+    text-align: center;
+}
+.serverimg{
+    margin-left: 600px;
+}
+.shareh3{
+    margin-top: 110px;
+}
+.shareimg01{
+    margin-left: -4px;
+}
+.dedicatedh3{
+    margin-top: 110px;
+    
+}
+.dedicatedimg01{
+    margin-left: -4px;
+}
+.server02{
+    display: flex;
+}
+.hr01{
+    margin-top: 100px;
+    margin-left: 95px;
+}
+.dedicatedserve{
+    margin-top: 20px;
+}
+.shareserve{
+    margin-top: 20px;
+}
+.col8h1{
+    color: black;
+    margin-top: -1px;
+    margin-left: -180px;
+    font-size: 20px;
+}
+.col8para{
+    margin-left: -45px;
+    color: black;
+}
+.shareservecard{
+    margin-top: 80px;
+}
+.col4img{
+    margin-top: 5px;
+}
+.row3img {
+    margin-top: -20px;
+}
